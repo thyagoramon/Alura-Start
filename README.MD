@@ -2,6 +2,8 @@
 
 Home page da Alura Start, que faz parte do ecossistema Alura e é voltada para introduzir crianças e adolescentes ao mundo da tecnologia e programação de forma divertida e educativa. O projeto foi desenvolvido ao longo da formação em front-end "CSS avançado: implementando designs com Grid, Flexbox e Sass" da Alura.
 
+![AluraStart](https://github.com/thyagoramon/Alura-Start/blob/main/AluraStart.jpg)
+
 [Clique aqui para visualizar a página](https://thyagoramon.github.io/Alura-Start/)
 
 ## Funcionalidades da página:
